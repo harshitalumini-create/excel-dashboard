@@ -107,6 +107,20 @@ Interactive Filters
 
 
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/92d0bfb6-681d-466b-a0c5-233003c3400f" width="1047">
+    </td>
+  </tr>
+</table>  
+
+
+
+
+
+
+
 
 
 
