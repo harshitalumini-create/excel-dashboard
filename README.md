@@ -82,6 +82,22 @@ Interactive Filters
 </table>
 
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/1eea4845-db41-44d5-af3d-0ef04279904c" width="500">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/719dffb8-e6ad-4f32-ba99-48262883ad0b" width="500">
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 
 
