@@ -1,4 +1,4 @@
-# excel-dashboard
+# Excel-dashboard
 
 This project presents an interactive E-Commerce Sales Dashboard developed in Microsoft Excel to analyze sales performance across different dimensions such as time, region, country, and product category. The dashboard enables users to explore key business metrics through interactive filters and visualizations, supporting data-driven decision-making.
 
