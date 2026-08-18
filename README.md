@@ -71,9 +71,9 @@ Interactive Filters
 
 <h1 align="center">CHARTS</h1>
 <p align="center">
-<img width="602" height="352" alt="image" src="https://github.com/user-attachments/assets/7edc1dc5-efa8-4b43-903e-3ad64aa15004" />   
+<img width="602"  alt="image" src="https://github.com/user-attachments/assets/7edc1dc5-efa8-4b43-903e-3ad64aa15004" />   
 
-<img width="604" height="352" alt="image" src="https://github.com/user-attachments/assets/4139e297-2d6b-4130-86dc-2095f705989f" />
+<img width="604"  alt="image" src="https://github.com/user-attachments/assets/4139e297-2d6b-4130-86dc-2095f705989f" />
 </p>
                                                                
 
