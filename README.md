@@ -106,7 +106,7 @@ Interactive Filters
 </table>
 
 
-
+<h1 align="center">DASHBOARD</h1>
 <table>
   <tr>
     <td>
