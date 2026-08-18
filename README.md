@@ -73,10 +73,10 @@ Interactive Filters
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/7edc1dc5-efa8-4b43-903e-3ad64aa15004" width="500">
+      <img src="https://github.com/user-attachments/assets/7edc1dc5-efa8-4b43-903e-3ad64aa15004" width="550">
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/4139e297-2d6b-4130-86dc-2095f705989f" width="500">
+      <img src="https://github.com/user-attachments/assets/4139e297-2d6b-4130-86dc-2095f705989f" width="550">
     </td>
   </tr>
 </table>
@@ -85,13 +85,27 @@ Interactive Filters
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/1eea4845-db41-44d5-af3d-0ef04279904c" width="500">
+      <img src="https://github.com/user-attachments/assets/1eea4845-db41-44d5-af3d-0ef04279904c" width="550">
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/719dffb8-e6ad-4f32-ba99-48262883ad0b" width="500">
+      <img src="https://github.com/user-attachments/assets/719dffb8-e6ad-4f32-ba99-48262883ad0b" width="550">
     </td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/fc7a637a-4bf0-476d-bda0-d655782caf8f" width="550">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/224f5f13-6342-4390-a0c8-96267d90ec26" width="550">
+    </td>
+  </tr>
+</table>
+
+
 
 
 
