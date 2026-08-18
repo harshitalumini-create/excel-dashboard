@@ -69,7 +69,7 @@ Interactive Filters
 - Slicers
 - KPI Cards
   
-                                                                     CHARTS
+                                                                     # CHARTS
 
 
                                                                
