@@ -68,5 +68,9 @@ Interactive Filters
 - Pivot Charts
 - Slicers
 - KPI Cards
+  
+                                                                     CHARTS
 
+
+                                                               
 
