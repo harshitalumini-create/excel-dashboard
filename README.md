@@ -73,10 +73,10 @@ Interactive Filters
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/7edc1dc5-efa8-4b43-903e-3ad64aa15004" width="400">
+      <img src="https://github.com/user-attachments/assets/7edc1dc5-efa8-4b43-903e-3ad64aa15004" width="500">
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/4139e297-2d6b-4130-86dc-2095f705989f" width="400">
+      <img src="https://github.com/user-attachments/assets/4139e297-2d6b-4130-86dc-2095f705989f" width="500">
     </td>
   </tr>
 </table>
