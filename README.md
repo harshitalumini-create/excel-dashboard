@@ -34,7 +34,7 @@ Key Performance Indicators (KPIs)
 
 
 Dashboard Features
-Interactive Filters
+Interactive Filters and Charts
 
 - Year
 - Customer Segment
